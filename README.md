@@ -1,2 +1,2 @@
-# Backend_JavaScript_Task2
-Select and Modify Elements
+# Backend_JavaScript_Task5
+Filtering Numbers using Higher-Order Functions
